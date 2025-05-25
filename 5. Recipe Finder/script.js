@@ -12,7 +12,7 @@ const modalImage = document.getElementById('modal-image');
 const modalIngredients = document.getElementById('modal-ingredients');
 const modalInstructions = document.getElementById('modal-instructions');
 
-// This space is for our recipe information
+//  This space is for the recipe information
 const recipes = [
     {
         id: '1',
